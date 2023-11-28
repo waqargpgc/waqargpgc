@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 🌱 **Currently Learning**: Micro Frontend, Web3
 💬 **Ask Me About**: Frontend, Angular, React, Vue, Ionic
-📫 **Reach Me**: [![Flowcode](https://www.flowcode.com/page/waqar-ahmad)
+📫 **Reach Me**: [![Flowcode](https://img.shields.io/badge/-Flowcode-1ca0f1?style=flat-square&logo=flowcode&logoColor=white)](https://www.flowcode.com/page/waqar-ahmad)
 
 ## Technologies and Tools
 
