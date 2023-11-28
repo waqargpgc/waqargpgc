@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 🌱 **Currently Learning**: Micro Frontend, Web3
 💬 **Ask Me About**: Frontend, Angular, React, Vue, Ionic
-📫 **Reach Me**: [![Flowcode](https://img.shields.io/badge/-Flowcode-1ca0f1?style=flat-square&logo=flowcode&logoColor=white)](https://www.flowcode.com/page/waqar-ahmad)
+📫 **Reach Me**: [![Portfolio](https://img.shields.io/badge/-Flowcode-1ca0f1?style=flat-square&logo=flowcode&logoColor=white)](https://www.flowcode.com/page/waqar-ahmad)
 
 ## Technologies and Tools
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/waqar-ahmd/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waqargpgc)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9900?style=for-the-badge)]([https://your-portfolio.com](https://my-portfolio-website-11.netlify.app/))
 
 ## Fun Fact
