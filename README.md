@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 ## Technologies and Tools
 
-![HTML and CSS in depth](https://img.shields.io/badge/-html-css-yellow?style=flat-square&logo=angular&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white)
