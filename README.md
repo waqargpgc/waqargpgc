@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 ## Technologies and Tools
 
+![HTML and CSS in depth](https://img.shields.io/badge/-html-css-yellow?style=flat-square&logo=angular&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white)
@@ -15,14 +16,16 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 ## Licenses & Certifications
 
-- [HackerRank](https://www.hackerrank.com/certificates/b07a146dd010) - [**HackerRank Certificate**](https://www.hackerrank.com/certificates/b07a146dd010)
-- [Udemy](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148) - [**Udemy Certificate**](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148)
-- [Coursera 1](https://www.coursera.org/account/accomplishments/certificate/98KL5BEYT79R) - [**Coursera Certificate 1**](https://www.coursera.org/account/accomplishments/certificate/98KL5BEYT79R)
-- [Coursera 2](https://www.coursera.org/account/accomplishments/certificate/ZGRESCSJGRSN) - [**Coursera Certificate 2**](https://www.coursera.org/account/accomplishments/certificate/ZGRESCSJGRSN)
-- [Coursera 3](https://www.coursera.org/account/accomplishments/certificate/4MH9M7V52QNG) - [**Coursera Certificate 3**](https://www.coursera.org/account/accomplishments/certificate/4MH9M7V52QNG)
-- [LinkedIn Learning 1](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate) - [**LinkedIn Learning Certificate 1**](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate)
-- [LinkedIn Learning 2](https://www.linkedin.com/learning/certificates/012d2c9acf6dcf94754cb56b73177467244a646a808f01a0819f0b455d0eeed1?trk=share_certificate) - [**LinkedIn Learning Certificate 2**](https://www.linkedin.com/learning/certificates/012d2c9acf6dcf94754cb56b73177467244a646a808f01a0819f0b455d0eeed1?trk=share_certificate)
-- [LinkedIn Learning 3](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate) - [**LinkedIn Learning Certificate 3**](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate)
+- **HackerRank Angular**: [Certificate](https://www.hackerrank.com/certificates/b07a146dd010)
+- **Udemy React Js**: [Certificate](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148)
+- **Coursera Programming with JavaScript**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/98KL5BEYT79R)
+- **Coursera Advanced React**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZGRESCSJGRSN)
+- **Coursera React Native**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/4MH9M7V52QNG)
+- **LinkedIn  Ionic 4.0 Essential Training**: [Certificate](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate)
+- **LinkedIn Ionic 4.0 : Deploying Ionic Apps**: [Certificate](https://www.linkedin.com/learning/certificates/012d2c9acf6dcf94754cb56b73177467244a646a808f01a0819f0b455d0eeed1?trk=share_certificate)
+- **LinkedIn Web3**: [Certificate](https://www.linkedin.com/learning/certificates/2d7f8391d46fca99ce45f8d483e3739af0df3e493ac10d257930a7f504b6581a?trk=share_certificate)
+- **LinkedIn Angular: Securing Apps**: [Certificate](https://www.linkedin.com/learning/certificates/1a99a594af9226e54104fa1f092427baeda3e13dadb27b2b1362f40bc14e47f5?trk=share_certificate)
+- **Coursera HTML and CSS in depth**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/SQVZWAVKPTD9)
 
 ## Let's Connect!
 
