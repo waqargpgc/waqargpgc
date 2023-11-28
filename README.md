@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 🌱 **Currently Learning**: Micro Frontend, Web3
 💬 **Ask Me About**: Frontend, Angular, React, Vue, Ionic
-📫 **Reach Me**: [Flowcode](https://www.flowcode.com/page/waqar-ahmad)
+📫 **Reach Me**: [![Flowcode](https://www.flowcode.com/page/waqar-ahmad)
 
 ## Technologies and Tools
 
@@ -15,7 +15,14 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 ## Licenses & Certifications
 
-- [Certification Name](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148/) - Udemy
+- [HackerRank](https://www.hackerrank.com/certificates/b07a146dd010) - [Certificate](https://www.hackerrank.com/certificates/b07a146dd010)
+- [Udemy](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148) - [Certificate](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148)
+- [Coursera 1](https://www.coursera.org/account/accomplishments/certificate/98KL5BEYT79R) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/98KL5BEYT79R)
+- [Coursera 2](https://www.coursera.org/account/accomplishments/certificate/ZGRESCSJGRSN) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZGRESCSJGRSN)
+- [Coursera 3](https://www.coursera.org/account/accomplishments/certificate/4MH9M7V52QNG) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/4MH9M7V52QNG)
+- [LinkedIn Learning 1](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate) - [Certificate](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate)
+- [LinkedIn Learning 2](https://www.linkedin.com/learning/certificates/012d2c9acf6dcf94754cb56b73177467244a646a808f01a0819f0b455d0eeed1?trk=share_certificate) - [Certificate](https://www.linkedin.com/learning/certificates/012d2c9acf6dcf94754cb56b73177467244a646a808f01a0819f0b455d0eeed1?trk=share_certificate)
+- [LinkedIn Learning 3](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate) - [Certificate](https://www.linkedin.com/learning/certificates/0250aa09069a614460cc9f750bd8a1ba192f28e91950a2da5183fd0c4be80976?trk=share_certificate)
 
 ## Let's Connect!
 
