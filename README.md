@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm WAQAR AHMAD
+# Hi,👋 I'm WAQAR AHMAD
 
 Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 years of experience, specializing in Angular, React, and Node.js. I'm currently exploring Micro Frontend and Web3 technologies to enhance my skills.
 
