@@ -13,6 +13,9 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+
 
 ## Licenses & Certifications
 
