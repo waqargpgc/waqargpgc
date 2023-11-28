@@ -13,17 +13,15 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## Projects
+## Licenses & Certifications
 
-- [Project 1](#) - Short description.
-- [Project 2](#) - Short description.
-- [Project 3](#) - Short description.
+- [Certification Name](https://www.udemy.com/certificate/UC-899c2d99-ccfc-4156-be32-b0b90c656148/) - Udemy
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/waqar-ahmd/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff9900?style=for-the-badge)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff9900?style=for-the-badge)]([https://your-portfolio.com](https://my-portfolio-website-11.netlify.app/))
 
 ## Fun Fact
 
