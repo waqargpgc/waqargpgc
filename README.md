@@ -36,6 +36,9 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9900?style=for-the-badge)]([https://your-portfolio.com](https://my-portfolio-website-11.netlify.app/))
 
 ![WAQAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqargpgc&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-waqargpgc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Fun Fact
 
 I love to code with a cup of coffee! ☕
