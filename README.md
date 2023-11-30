@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a seasoned frontend developer with over 6 year
 
 ![WAQAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqargpgc&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-waqargpgc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqargpgc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun Fact
 
